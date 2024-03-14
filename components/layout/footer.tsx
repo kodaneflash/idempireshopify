@@ -59,7 +59,7 @@ export default async function Footer() {
           <p>Designed in California</p>
           <p className="md:ml-auto">
             <a href="https://vercel.com" className="text-black dark:text-white">
-              Crafted by ▲ Vercel
+              @IDEmpire
             </a>
           </p>
         </div>
